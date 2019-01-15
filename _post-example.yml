@@ -1,0 +1,37 @@
+---
+title: My Conference
+start_date: 2019-01-01
+end_date: 2019-01-05
+website: http://
+tagline: This is an awesome conference.
+description: >
+  blah blah blah
+  blah blah blah
+keywords: tech, it, code, cool
+twitter: myconference
+location: Orlando, FL
+address:
+  lines: |
+    458 Walkman Dr.
+    Suite #292
+  city: Orlando
+  state: FL
+  postal: 32825
+speakers:
+  - name: Shayne Boyer
+    title: Sr Cloud Advocate
+    company: Microsoft
+    twitter: spboyer
+    github: spboyer
+    website: http://tattoocoder.com
+  - name: Speaker 2
+    title: Super Awesome Speaker
+    company: Awesome Company
+    twitter: speaker2
+    github:
+    website:
+cfp:
+  url: http://myconference.com/cfp
+  open: 2018-10-01
+  close: 2018-10-15
+  notice: 2018-11-01
