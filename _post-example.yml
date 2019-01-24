@@ -17,6 +17,7 @@ address:
   city: Orlando
   state: FL
   postal: 32825
+  country: USA
 speakers:
   - name: Shayne Boyer
     title: Sr Cloud Advocate
